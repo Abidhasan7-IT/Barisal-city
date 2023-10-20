@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Barisal-city/static/css/main.2e22b531.css",
+    "main.js": "/Barisal-city/static/js/main.c93a467d.js",
+    "static/js/787.1a41fc45.chunk.js": "/Barisal-city/static/js/787.1a41fc45.chunk.js",
+    "index.html": "/Barisal-city/index.html",
+    "main.2e22b531.css.map": "/Barisal-city/static/css/main.2e22b531.css.map",
+    "main.c93a467d.js.map": "/Barisal-city/static/js/main.c93a467d.js.map",
+    "787.1a41fc45.chunk.js.map": "/Barisal-city/static/js/787.1a41fc45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e22b531.css",
+    "static/js/main.c93a467d.js"
+  ]
+}
